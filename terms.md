@@ -18,11 +18,15 @@ title: Blockchain Commons Patron Agreement
 
 ## Blockchain Commons Obligations
 
-- send weekly summaries
+- send weekly progress reports
+- hire personnel to do the work
+- publish work
+- license work as agreed
 
 ## Patron Obligations
 
-- license work from staff on appropriate terms
+- pay at the start of each cycle
+- license work from employees and contractors on appropriate terms
 
 ## Mutual Obligations
 
