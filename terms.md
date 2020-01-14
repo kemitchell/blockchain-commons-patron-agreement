@@ -24,7 +24,7 @@ _Company_ agrees to appoint a **Primary Contact** by giving notice of their name
 
 # Responsiveness
 
-TODO
+_Company_ agrees to ensure that its _Primary Contact_ responds promptly to written questions and requests to schedule calls and meetings. TODO
 
 # Payment
 
