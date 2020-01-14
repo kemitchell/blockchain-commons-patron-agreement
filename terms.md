@@ -264,7 +264,7 @@ _Blockchain Commons_ guarantees that:
 
 ## Law
 
-<https://commonform.org/kemitchell/law-of-signatory-address/1e> replacing _Signatory_ with _Company_
+The law of the state of the address _Company_ provides with its signature governs all rights and duties under this agreement.
 
 ## Disputes
 
@@ -280,11 +280,11 @@ _Blockchain Commons_ cannot assign any right under this agreement without the pe
 
 ## Delegation
 
-<https://commonform.org/kemitchell/no-delegation/1e>
+Neither party can delegate any duty under this agreement. Any attempt to delegate has no legal effect.
 
 ## Unenforceable Terms
 
-<https://commonform.org/kemitchell/strict-severability/1e>
+If a court decides that any part of this agreement cannot be enforced, for any reason, the rest of this agreement will continue to apply.
 
 # Definitions
 
