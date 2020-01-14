@@ -182,7 +182,13 @@ _Blockchain Commons_ will pay any losses that _Company_ pays or becomes legally 
 
 ## Work Made for Hire
 
-<https://commonform.org/kemitchell/work-made-for-hire-unless-employment/1e1c> replacing _Party Making Work_ with _Blockchain Commons_, _Work_ with _New Intellectual Property_
+### Express Agreement to Make "Work Made for Hire"
+
+Subject to [State Employment Law Exception](#state-employment-law-exception), as far as the law allows, _Work_ will be "work made for hire" under copyright law.
+
+### State Employment Law Exception
+
+[Express Agreement to Make "Work Made for Hire"](#express-agreement-to-make-work-made-for-hire) does not apply if it would make _Party Making Work_ an employee for purposes of state employment law that applies to _Party Making Work_.
 
 ## Blockchain Commons Assigns IP
 
