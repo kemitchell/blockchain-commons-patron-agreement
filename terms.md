@@ -20,7 +20,7 @@ _Blockchain Commons_ will do the work described in each **Statement of Work** co
 
 # Representative
 
-_Company_ agrees to appoint a **Primary Contact** by giving _Notice_ of their name, title, and email address before work starts. _Company_ agrees to appoint a replacement _Primary Contact_ if the current one leaves or becomes unavailable. If _Company_ or any _Affiliate_ has technical staff, the _Primary Contact_ must be a member of the technical staff.
+_Company_ agrees to appoint a **Primary Contact** by giving notice of their name, title, and email address before work starts. _Company_ agrees to appoint a replacement _Primary Contact_ if the current one leaves or becomes unavailable. If _Company_ or any _Affiliate_ has technical staff, the _Primary Contact_ must be a member of the technical staff.
 
 # Responsiveness
 
