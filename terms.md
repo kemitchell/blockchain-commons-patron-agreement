@@ -68,7 +68,7 @@ When this agreement ends, _Blockchain Commons_ will stop work and bill _Company_
 
 ## Continuing Provisions
 
-These sections continue to apply after this agreement ends: [Work](#work), [Payment](#payment), [Working Relationship](#working-relationship), [Further Steps](#further-steps), [Company Can Act on Blockchain Commons' Behalf](#company-can-act-on-contractors-behalf), and [Limit on Liability](#limit-on-liability).
+These sections continue to apply after this agreement ends: [Work](#work), [Payment](#payment), [Working Relationship](#working-relationship), and [Limit on Liability](#limit-on-liability).
 
 # Working Relationship
 
