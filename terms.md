@@ -1,34 +1,61 @@
 ---
-title: Blockchain Commons Patron Agreement
+title: Blockchain Commons Collaboration Framework Agreement
 ---
 
-## Deal Variables
+- Background
 
-### Determined Before Signing
+- Statements of Work Structure
 
-- number of cycles
-- repositories
-- new projects
-- pay on cycle start
-- public license choice
+- Payment Terms
 
-### Determined Later
+- Confidentiality
 
-- finalized scope
+- Patron/Sponsor Responsiveness Commitment
 
-## Blockchain Commons Obligations
+- Intellectual Property
 
-- send weekly progress reports
-- hire personnel to do the work
-- publish work
-- license work as agreed
+  - Blockchain Commons Work
 
-## Patron Obligations
+    - Closed Work
 
-- pay at the start of each cycle
-- license work from employees and contractors on appropriate terms
+    - Open Work
 
-## Mutual Obligations
+      - Our Repositories
 
-- meet at the beginning of each cycle
-- meet at the end of each cycle
+        - Choice of License
+
+      - Third-Party Repositories
+
+    - Mixed Work
+
+      - Redaction and Release
+
+  - Patron/Sponsor Work
+
+    - Contribution Licensing
+
+- Publicity
+
+  - Use of Blockchain Commons' Name
+
+  - Use of Patron/Sponsor's Name
+
+- Subcontracting
+
+- Independent Contractor Relationship
+
+- Guarantees
+
+  - Personnel Competence
+
+  - Subcontractor Intellectual Property Terms
+
+  - Subcontractor Tax and Employment Compliance
+
+  - Licensing
+
+- Disclaimer
+
+- Limit on Liability
+
+- General Contract Terms
