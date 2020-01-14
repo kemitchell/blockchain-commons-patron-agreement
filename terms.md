@@ -3,7 +3,7 @@ title: Blockchain Commons Collaboration Framework Agreement
 blanks:
   bill dispute deadline: thirty days
   early termination period": thirty days
-  late payment interst: one and a half percent
+  late payment interest: one and a half percent
   payment deadline: thirty days
   term timeout: six months
 ---
