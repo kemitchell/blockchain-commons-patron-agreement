@@ -176,9 +176,9 @@ _Blockchain Commons_ guarantees that:
 
 # General Contract Terms
 
-## Law
+## Governing Law
 
-The law of the state of the address _Company_ provides with its signature governs all rights and duties under this agreement.
+Wyoming law will govern all rights and duties under this agreement.
 
 ## Disputes
 
@@ -186,19 +186,35 @@ _Company_ and _Blockchain Commons_ agree to make any _Legal Claim_ related to th
 
 ## Whole Agreement
 
-This agreement and any confidentiality agreement between _Company_ and _Blockchain Commons_ list all the terms that _Company_ and _Blockchain Commons_ intend to apply to _Blockchain Commons_'s work for _Company_.
+Both sides intend this agreement as the final, complete, and only expression of their terms about _Blockchain Commons_' work with _Company_.  However, these terms do not replace or invalidate any nondisclosure agreement.
 
 ## Assignment
 
-_Blockchain Commons_ cannot assign any right under this agreement without the permission of an executive officer of _Company_ in writing, in advance. _Company_ can assign this agreement, as a whole, to another business entity that acquires its stock or substantially all its assets, or to a new business entity set up to change its legal form or jurisdiction. Any attempt to assign rights under this agreement against its terms has no legal effect.
+_Company_ cannot assign any right under this agreement without _Blockchain Commons_' prior, written, permission. _Blockchain Commons_ can assign this agreement, as a whole, to another business entity that acquires its stock or substantially all its assets, or to a new business entity set up to change its legal form or jurisdiction. Any attempt to assign rights under this agreement against its terms has no legal effect.
 
 ## Delegation
 
-Neither party can delegate any duty under this agreement. Any attempt to delegate has no legal effect.
+Neither side can delegate any duty under this agreement. Any attempt to delegate has no legal effect.
 
 ## Unenforceable Terms
 
 If a court decides that any part of this agreement cannot be enforced, for any reason, the rest of this agreement will continue to apply.
+
+## Enforcement
+
+Only _Company_ and _Blockchain Commons_ can enforce this agreement.
+
+## Lawsuits
+
+**Lawsuits** means any legal actions or claims related to this agreement, ignoring the historical distinction between actions "in law" and "in equity".
+
+## Courts
+
+Both sides agree to bring all _Lawsuits_ related to this agreement only in the federal or state courts in Cheyenne, Wyoming.  Both sides consent to the exclusive jurisdiction of those courts, and waive any objection to hearing _Lawsuits_ there.  Both sides can enforce judgments from those courts in other jurisdictions.
+
+## English Rule
+
+Each side agrees to pay the other side's attorney fees and costs if they lose in court.
 
 # Definitions
 
