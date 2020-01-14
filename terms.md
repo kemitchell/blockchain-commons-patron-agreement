@@ -166,17 +166,11 @@ Each side agrees to pay the other side's attorney fees and costs if they lose in
 
 - **Affiliate** means a legal entity that has _Control_ over, is under the _Control_ of, or is under common _Control_ with another legal entity.
 
-- **Business Information** means information that is not _Publicly Available_ about how and with whom a party or any _Affiliate_ has done, does, or plans to do business. Information about these terms and _Blockchain Commons_' compensation is _Business Information_. Information about customers, suppliers, employees, consultants, professional service providers, officers, directors, advisers, employees, and contractors is _Business Information_. Information about transactions, prices, costs, market share, strategy, and financial performance is _Business Information_.
-
 - **Control** means ownership of substantially all the assets of a legal entity or the power to direct management and policies of a legal entity, such as by vote or by contract. _Control_ can be direct or indirect.
 
 - **Derivatives** means _Intellectual Property Rights_ incorporating, improving, or derived from other _Intellectual Property Rights_.
 
 - **Embodiments** means documents, computer files, and other records that describe, embody, record, or store the subject matter of _New Intellectual Property_.
-
-- **Information Marked Confidential** means information that is not _Publicly Available_ that is disclosed in materials marked or identified in writing as "Secret", "Confidential", "Proprietary", or similar.
-
-- **Infringement** means infringement of _Intellectual Property Rights_, before or after the date of this agreement.
 
 - **Intellectual Property Rights** means all of these:
 
@@ -194,11 +188,7 @@ Each side agrees to pay the other side's attorney fees and costs if they lose in
 
     - rights in registrations and applications for _Intellectual Property Rights_
 
-- **Leak** means unauthorized disclosure or loss of _Secrets_ from or by a party or any other person a party suspects has obligations to keep the _Secrets_ confidential. A _Leak_ is a _Leak_ whether caused by accident or due to an intentional security breach.
-
 - **Legal Claim** means any legal action or claim, ignoring the historical distinction between actions "in law" and "in equity".
-
-- **Legal Requirement** means a requirement of a law, regulation, or order from a court, administrative body, or government institution with legal jurisdiction.
 
 - **New Intellectual Property** means all of these, created by _Blockchain Commons_ alone or with others:
 
@@ -213,19 +203,3 @@ Each side agrees to pay the other side's attorney fees and costs if they lose in
     - _Embodiments_ of _New Intellectual Property_
     -
 - **Personal Information** means all information subject to laws governing collection, storage, use, transfer, and processing of data about individuals, or implicating personal privacy, broadly understood, about individuals who interact with a party, its products, or its services. _Personal Information_ is _Personal Information_ no matter how it is stored and whether or not it is attributable to specific individuals by name or other identifier, aggregated, or anonymized.
-
-- Information is **Publicly Available** in all of these situations:
-
-    - The information became publicly known for some reason other than breach of this agreement.
-
-    - The party disclosing the information has made the same information available to others without obligations to keep it confidential.
-
-    - The party receiving the information received the same information from someone else before, and did not know then that the person providing the information was breaking a confidentiality obligation to the other party. The party receiving the information must show this is the case with documents created before it disclosed the information.
-
-    - The party receiving the information developed the same information, without any help from the party disclosing the information or using any of its _Secrets_, before receiving it from the other party. The party receiving the information must show this is the case with documents created when it independently developed the information.
-
-  Information is not _Publicly Available_ just because it synthesizes other information that is _Publicly Available_.
-
-- **Software** means computer code and software configuration, whether in source, script, or compiled form, for any software or hardware platform, and stored in any format.
-
-- _Software_ **Utilizes** another work when it explicitly depends on, installs, configures, invokes, or links to the other work, directly or indirectly.
