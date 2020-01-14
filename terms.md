@@ -96,7 +96,7 @@ _Blockchain Commons_ will pay any losses that _Company_ pays or becomes legally 
 
 ## Ownership
 
-This agreement does not change ownership of any intellectual property. However, the parties agree to license their work in certain situations.
+This agreement does not change ownership of any _Intellectual Property Rights_. However, the parties agree to license _Intellectual Property Rights_ in certain situations.
 
 ### Blockchain Commons Projects
 
