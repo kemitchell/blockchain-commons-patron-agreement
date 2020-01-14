@@ -20,7 +20,7 @@ _Blockchain Commons_ will do the work described in each **Statement of Work** co
 
 # Representative
 
-_Company_ agrees to appoint a **Technical Representative** by giving _Notice_ of their name, title, and email address before work starts. _Company_ agrees to appoint a replacement _Technical Representative_ if the current one leaves or becomes unavailable. If _Company_ or any _Affiliate_ has technical staff, the _Technical Representative_ must be a member of the technical staff.
+_Company_ agrees to appoint a **Primary Contact** by giving _Notice_ of their name, title, and email address before work starts. _Company_ agrees to appoint a replacement _Primary Contact_ if the current one leaves or becomes unavailable. If _Company_ or any _Affiliate_ has technical staff, the _Primary Contact_ must be a member of the technical staff.
 
 # Responsiveness
 
@@ -100,9 +100,9 @@ In specific circumstances, _Blockchain Commons_ may disclose _Company_ _Secrets_
 
 - _Blockchain Commons_ may disclose _Company_ _Secrets_ by private message to an _Open Software_ developer, or by message to a public mailing list, bug tracking system, or revision control system.
 
-### Technical Representative Guidance
+### Primary Contact Guidance
 
-_Company_ agrees that _Blockchain Commons_ can rely on written messages from the _Technical Representative_ that disclosing specific information, or sending a specific message, will be allowed under [Collaborating with Open Software Developers](#collaborating-with-open-software-developers).
+_Company_ agrees that _Blockchain Commons_ can rely on written messages from the _Primary Contact_ that disclosing specific information, or sending a specific message, will be allowed under [Collaborating with Open Software Developers](#collaborating-with-open-software-developers).
 
 ## Copies, Changes, and Disposal
 
