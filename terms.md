@@ -94,77 +94,23 @@ _Blockchain Commons_ will pay any losses that _Company_ pays or becomes legally 
 
 # Intellectual Property
 
-## Work Made for Hire
+## Ownership
 
-### Express Agreement to Make "Work Made for Hire"
+This agreement does not change ownership of any intellectual property. However, the parties agree to license their work in certain situations.
 
-Subject to [State Employment Law Exception](#state-employment-law-exception), as far as the law allows, _Work_ will be "work made for hire" under copyright law.
+### Blockchain Commons Projects
 
-### State Employment Law Exception
+### Other Projects
 
-[Express Agreement to Make "Work Made for Hire"](#express-agreement-to-make-work-made-for-hire) does not apply if it would make _Party Making Work_ an employee for purposes of state employment law that applies to _Party Making Work_.
-
-## Blockchain Commons Assigns IP
-
-On _Company_'s full payment of each bill, _Blockchain Commons_ assigns _New Intellectual Property_ related to work under that bill that cannot be "work made for hire" under copyright law to _Company_. Among the rights assigned are:
-
-- ownership of _New Intellectual Property_
-
-- all rights to make _Legal Claim_ for _Infringement_ of _New Intellectual Property_
-
-- all rights to seek legal remedies for _Infringement_ of _New Intellectual Property_, such as money damages, injunctions, and other "equitable remedies", as well as any other compensation, benefits, or procedural privileges a court might award
-
-- all other rights _Blockchain Commons_ has in _New Intellectual Property_
-
-## Further Steps
-
-_Blockchain Commons_ will do everything necessary to paper assignments in [Blockchain Commons Assigns IP](#contractor-assigns-ip), make them legally effective, and help _Company_ enforce the rights assigned. _Company_ will notify _Blockchain Commons_ by e-mail of any further steps required, provide all necessary documentation, and reimburse _Blockchain Commons_ for reasonable out-of-pocket expenses.
-
-## Company Can Act on Blockchain Commons' Behalf
-
-### What Company May Do
-
-_Company_ may take action under [Further Steps](#further-steps) on _Blockchain Commons_'s behalf if _Company_ can't find _Blockchain Commons_, if _Blockchain Commons_ isn't capable of doing so, or if _Blockchain Commons_ refuses to do so.
-
-### Legal Intent
-
-In legal terms of art, _Company_ and _Blockchain Commons_ intend [What Company May Do](#what-company-may-do) to appoint _Company_ as _Blockchain Commons_'s "attorney in fact with full right of substitution" to act on _Blockchain Commons_'s behalf under [Further Steps](#further-steps).
-
-## Disclosure
-
-_Blockchain Commons_ will promptly disclose _New Intellectual Property_ created under this agreement to the _Company_ in writing, as it is created.
-
-## Other IP
-
-_Blockchain Commons_ licenses _Company_ to do everything that would otherwise infringe _Intellectual Property Rights_ that _Blockchain Commons_ can license, other than _New Intellectual Property_, that _Blockchain Commons_ uses or builds on during work under this agreement. The license continues forever, cannot be revoked, imposes no royalty or other charge, and allows _Company_ to sublicense.
+### Company Contributions
 
 # Guarantees
 
 _Blockchain Commons_ guarantees that:
 
-- _Blockchain Commons_ utilize only competent personnel with expertise in the related fields to do work under this agreement.
-
+- _Blockchain Commons_ utilize only competent personnel with expertise in the relevant fields to do work under this agreement.
 - _Blockchain Commons_ will not breach any agreement with anyone else by entering into this agreement or doing work under it.
-
-- _Blockchain Commons_ will be qualified to do all the work under each _Statement of Work_, and will have any necessary permits and licenses.
-
-- _Blockchain Commons_ is not currently working with, or planning to work with, any other company that _Company_ could reasonably see as a direct competitor.
-
 - _Blockchain Commons_ will not knowingly infringe _Intellectual Property Rights_ in work under this agreement.
-
-- _Blockchain Commons_ will not knowingly use or build on _Intellectual Property Rights_ that _Blockchain Commons_ cannot license to _Company_ under [Other IP](#other-ip) during work under this agreement.
-
-- _Blockchain Commons_ has all legal rights needed to assign _New Intellectual Property_.
-
-- No _New Intellectual Property_ has been involved in any _Legal Claim_.
-
-- No one has claimed any rights in any _New Intellectual Property_.
-
-- No _New Intellectual Property_ has been assigned or exclusively licensed to anyone else.
-
-- No one has any lien on or other right to any of _New Intellectual Property_ that will interfere with or limit the rights _Company_ receives.
-
-- No employer, client, educational institution, or other organization _Blockchain Commons_ has been affiliated with has any right to claim ownership of any _New Intellectual Property_.
 
 # Disclaimer
 
