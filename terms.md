@@ -62,7 +62,13 @@ If _Company_ does not pay a bill on time, _Company_ agrees to pay _Blockchain Co
 
 # Publicity
 
-TODO
+## Press Release
+
+Both sides agree to prepare and issue a joint press release about the agreement established under this agreement.
+
+## Affiliation
+
+Each side may publicly identify _Company_ as a patron of _Blockchain Commons_ and _Blockchain Commons_ as a consultant and advisor for _Company_.
 
 # Term
 
