@@ -6,6 +6,18 @@ blanks:
   late payment interest: one and a half percent
   payment deadline: thirty days
   term timeout: six months
+signatures:
+  - header: The parties are signing this agreement on the dates by their signatures.
+    term: Blockchain Commons
+    entities:
+      - name: Blockchain Commons LLC
+        jurisdiction: Wyoming
+        form: LLC
+    information: [date, email]
+  - samePage: true
+    term: Company
+    entities: [{}]
+    information: [date, email]
 ---
 
 **Blockchain Commons** and **Company** agree:
