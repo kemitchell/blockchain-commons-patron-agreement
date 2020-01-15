@@ -68,7 +68,7 @@ Both sides agree to prepare and issue a joint press release about the agreement 
 
 ## Affiliation
 
-Each side may publicly identify _Company_ as a patron of _Blockchain Commons_ and _Blockchain Commons_ as a consultant and advisor for _Company_.
+While this agreement continues, each side may publicly identify _Company_ as a patron of _Blockchain Commons_ and _Blockchain Commons_ as a consultant and advisor for _Company_.
 
 # Term
 
