@@ -100,10 +100,6 @@ Both _Company_ and _Blockchain Commons_ can end this agreement early by notifyin
 
 When this agreement ends, _Blockchain Commons_ will stop work and bill _Company_ for work already done.
 
-## Continuing Provisions
-
-These sections continue to apply after this agreement ends: [Work](#work), [Payment](#payment), [Working Relationship](#working-relationship), and [Limit on Liability](#limit-on-liability).
-
 # Intellectual Property
 
 ## Ownership
