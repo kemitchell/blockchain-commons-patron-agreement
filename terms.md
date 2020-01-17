@@ -46,7 +46,7 @@ _Blockchain Commons_ agrees do the work described in each **Statement of Work** 
 
 _Blockchain Commons_ agrees not to knowingly infringe any _Intellectual Property Rights_ in work under this agreement.
 
-## Report Progress
+## Send Progress Reports
 
 _Blockchain Commons_ agrees to send _Company_'s _Primary Contact_ reports of work done on any outstanding _Statement of Work_ on request.  The _Primary Contact_ may request a report every two weeks.
 
