@@ -104,6 +104,26 @@ When this agreement ends, _Blockchain Commons_ will stop work and bill _Company_
 
 These sections continue to apply after this agreement ends: [Work](#work), [Payment](#payment), [Working Relationship](#working-relationship), and [Limit on Liability](#limit-on-liability).
 
+# Intellectual Property
+
+## Ownership
+
+This agreement does not change ownership of any _Intellectual Property Rights_. However, the parties agree to license _Intellectual Property Rights_ in certain situations.
+
+### Blockchain Commons Projects
+
+### Other Projects
+
+### Company Contributions
+
+# Disclaimer
+
+!!! _Blockchain Commons_ makes only the guarantees in [Guarantees](#guarantees). Otherwise, _Blockchain Commons_ provides the _New Intellectual Property_ and all work product "as is", without any warranty whatsoever.
+
+# Limit on Liability
+
+!!! As far as the law allows, if _Company_ makes any _Legal Claim_ against _Blockchain Commons_ related to this agreement, _Blockchain Commons_'s aggregate liability to _Company_ will be capped at the amount of fees _Company_ has actually paid _Blockchain Commons_ under this agreement. This limit on liability does not apply to indemnity under [Compliance Indemnity](#compliance-indemnity).
+
 # Working Relationship
 
 ## Independence
@@ -125,26 +145,6 @@ Both _Company_ and _Blockchain Commons_ will do their respective parts for tax, 
 ## Compliance Indemnity
 
 _Blockchain Commons_ will pay any losses that _Company_ pays or becomes legally responsible to pay, including expenses of defending against any _Legal Claim_, related to _Blockchain Commons_'s failure under [Compliance](#compliance) for _Blockchain Commons_ or any _Blockchain Commons_ personnel. _Company_ will promptly notify _Blockchain Commons_ by e-mail whenever it anticipates possible losses that _Blockchain Commons_ might have to pay. If _Company_ fails to notify _Blockchain Commons_ promptly, _Blockchain Commons_ will not pay _Company_ losses that _Blockchain Commons_ could have reduced or defended against if _Company_ had notified _Blockchain Commons_ promptly.
-
-# Intellectual Property
-
-## Ownership
-
-This agreement does not change ownership of any _Intellectual Property Rights_. However, the parties agree to license _Intellectual Property Rights_ in certain situations.
-
-### Blockchain Commons Projects
-
-### Other Projects
-
-### Company Contributions
-
-# Disclaimer
-
-!!! _Blockchain Commons_ makes only the guarantees in [Guarantees](#guarantees). Otherwise, _Blockchain Commons_ provides the _New Intellectual Property_ and all work product "as is", without any warranty whatsoever.
-
-# Limit on Liability
-
-!!! As far as the law allows, if _Company_ makes any _Legal Claim_ against _Blockchain Commons_ related to this agreement, _Blockchain Commons_'s aggregate liability to _Company_ will be capped at the amount of fees _Company_ has actually paid _Blockchain Commons_ under this agreement. This limit on liability does not apply to indemnity under [Compliance Indemnity](#compliance-indemnity).
 
 # General Contract Terms
 
