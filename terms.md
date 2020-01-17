@@ -38,11 +38,11 @@ _Blockchain Commons_ will do the work described in each **Statement of Work** co
 
 # Representative
 
-_Company_ agrees to appoint a **Primary Contact** by giving notice of their name, title, and email address before work starts. _Company_ agrees to appoint a replacement _Primary Contact_ if the current one leaves or becomes unavailable. If _Company_ or any _Affiliate_ has technical staff, the _Primary Contact_ must be a member of the technical staff.
+_Company_ agrees to appoint a **Primary Contact** for work with _Blockchain Commons_ by sending their name, title, and e-mail address to _Blockchain Commons_ before work starts. _Company_ agrees to appoint a replacement _Primary Contact_ if the current one leaves or becomes unavailable. If _Company_ or any _Affiliate_ has technical staff, the _Primary Contact_ must be a member of the technical staff.
 
 # Responsiveness
 
-_Company_ agrees to ensure that its _Primary Contact_ responds promptly to written questions and requests to schedule calls and meetings. TODO
+_Company_ agrees to ensure that its _Primary Contact_ responds promptly to written requests for information, scheduling, and rescheduling. The deadline for any work held up waiting on a _Primary Contact_ response are automatically postponed by the length of the delay. If the _Primary Contact_ fails to respond to a request for more than a month, _Blockchain Commons_ may end the relevant _Statement of Work_ by giving _Company_ notice by e-mail.
 
 # Payment
 
