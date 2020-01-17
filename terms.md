@@ -46,7 +46,7 @@ _Company_ agrees to ensure that its _Primary Contact_ responds promptly to writt
 
 # Payment
 
-## Deadline
+## Due Date
 
 _Company_ will pay each correctly billed amount within `payment deadline` of receiving the bill.
 
