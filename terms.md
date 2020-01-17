@@ -24,7 +24,13 @@ signatures:
 
 # Background
 
-- _Blockchain Commons_ is TODO
+- _Blockchain Commons_ is a public benefit corporation supporting blockchain and security infrastructure through cryptographic research, protocol implementations, architecture and code reviews, standardization efforts, and strategic advisory services.
+
+- On the foundation of strong commitments to open software, open standards, and defensive patenting, _Blockchain Commons_' is able to marshal experts in a variety of fields, from programming to cryptography to user experience design, to further its mission at critical points of need.
+
+- _Blockchain Commons_ can do coordinate and accomplish this work only thanks to its patrons: companies in blockchain and allied industries that support _Blockchain Commons_ financially and benefit from its work both tactically and strategically.
+
+- This agreement sets out baseline terms for _Company_'s patronage of _Blockchain Commons_' work and mission.  That relationship can and should evolve over time, through a variety of project engagements.  These terms afford the flexibility to do so.
 
 # Work
 
