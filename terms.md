@@ -104,7 +104,7 @@ TODO
 
 ### Other Projects
 
-TODO
+Both sides agree to license contributions of their personnel to open projects established outside of this agreement, whether by the parties themselves or others, on the prevailing license terms for contributions to those projects.  When the steward of the project requests a contributor license agreement for contributions, we will contribute under that agreement.  Otherwise, we will contribute under the terms of the primary public.
 
 # Term
 
