@@ -1,5 +1,5 @@
 ---
-title: Blockchain Commons Collaboration Framework Agreement
+title: Blockchain Commons Patronage Framework Agreement
 blanks:
   bill dispute deadline: thirty days
   early termination period": thirty days
