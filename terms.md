@@ -46,9 +46,13 @@ _Blockchain Commons_ agrees do the work described in each **Statement of Work** 
 
 _Blockchain Commons_ agrees not to knowingly infringe any _Intellectual Property Rights_ in work under this agreement.
 
+## Report Progress
+
+_Blockchain Commons_ agrees to send _Company_'s _Primary Contact_ reports of work done on any outstanding _Statement of Work_ on request.  The _Primary Contact_ may request a report every two weeks.
+
 # Company's Obligations
 
-## Appoint a Representative
+## Appoint a Primary Contact
 
 _Company_ agrees to appoint a **Primary Contact** for work with _Blockchain Commons_ by sending their name, title, and e-mail address to _Blockchain Commons_ before work starts. _Company_ agrees to appoint a replacement _Primary Contact_ if the current one leaves or becomes unavailable. If _Company_ or any _Affiliate_ has technical staff, the _Primary Contact_ must be a member of the technical staff.
 
