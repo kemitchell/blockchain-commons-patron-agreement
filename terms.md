@@ -24,7 +24,7 @@ signatures:
 
 # Background
 
-- _Blockchain Commons_ is a public benefit corporation supporting blockchain and security infrastructure through cryptographic research, protocol implementations, architecture and code reviews, standardization efforts, and strategic advisory services.
+- _Blockchain Commons_ is a public benefit corporation supporting blockchain and other decentralized computing infrastructure through cryptographic research, protocol implementations, architecture and code reviews, standardization efforts, and strategic advisory services.
 
 - On the foundation of strong commitments to open software, open standards, and defensive patenting, _Blockchain Commons_ is able to marshal experts in a variety of fields, from programming to cryptography to user experience design, to further its mission at critical points of need.
 
