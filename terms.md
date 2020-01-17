@@ -32,47 +32,57 @@ signatures:
 
 - This agreement sets out terms for _Company_'s patronage of _Blockchain Commons_' work and mission.  That relationship can and will evolve over time, through a variety of specific engagements.  These terms afford the stable basis for that flexibility.
 
-# Work
+# Blockchain Commons' Obligations
 
-_Blockchain Commons_ will do the work described in each **Statement of Work** cosigned with _Company_ under this agreement. _Company_ will pay the fees and expenses described in the _Statement of Work_. _Blockchain Commons_ will bill _Company_ for fees and expenses as described in the _Statement of Work_.
+## Do the Work
 
-# Representative
+_Blockchain Commons_ agrees do the work described in each **Statement of Work** cosigned with _Company_ under this agreement.
+
+## Use Competent Personnel
+
+- _Blockchain Commons_ agrees to use only competent personnel with expertise in the relevant fields to do work under this agreement.
+
+## Avoid Infringement
+
+_Blockchain Commons_ agrees not to knowingly infringe any _Intellectual Property Rights_ in work under this agreement.
+
+# Company's Obligations
+
+## Appoint a Representative
 
 _Company_ agrees to appoint a **Primary Contact** for work with _Blockchain Commons_ by sending their name, title, and e-mail address to _Blockchain Commons_ before work starts. _Company_ agrees to appoint a replacement _Primary Contact_ if the current one leaves or becomes unavailable. If _Company_ or any _Affiliate_ has technical staff, the _Primary Contact_ must be a member of the technical staff.
 
-# Responsiveness
+## Respond to Requests Promptly
 
-_Company_ agrees to ensure that its _Primary Contact_ responds promptly to written requests for information, scheduling, and rescheduling. The deadline for any work held up waiting on a _Primary Contact_ response are automatically postponed by the length of the delay. If the _Primary Contact_ fails to respond to a request for more than a month, _Blockchain Commons_ may end the relevant _Statement of Work_ by giving _Company_ notice by e-mail.
+_Company_ agrees to ensure that its _Primary Contact_ responds promptly to written requests for information, scheduling, and rescheduling. The deadline for any work held up waiting on a _Primary Contact_ response are automatically postponed by the length of the delay. If the _Primary Contact_ fails to respond to a request for more than a month, _Blockchain Commons_ can end the relevant _Statement of Work_ by notifying _Company_ by e-mail.
 
-# Payment
+## Pay Agreed Fees and Expenses
 
-## Due Date
+_Company__ agrees to pay _Blockchain Commons_' fees and expenses as agreed on each _Statement of Work_.
 
-_Company_ will pay each correctly billed amount within `payment deadline` of receiving the bill.
+## Follow Payment Instructions
 
-## Errors
+_Company_ agrees to make all payments to _Blockchain Commons_ under this agreement denominated in the currency and according to the payment instructions agreed on the _Statement of Work_.  _Company_ will not increase or decrease payments under this agreement according to, or to offset, changes in the market price of the denominating currency.
 
-_Company_ will notify _Blockchain Commons_ by e-mail of any suspected error in a bill within `bill dispute deadline` of receiving the bill. If _Company_ does not notify of an error in that time, _Company_ will pay the billed amount.
+## Pay on Time
 
-## Late Payments
+_Company_ agrees to pay all correctly billed amounts on each bill within seven calendar days of receipt.  If _Company_ does not pay a bill on time, _Blockchain Commons_ can notify _Company_ by e-mail and stop work until all overdue bills are paid.  Stopping work in this way postpones all deadlines for as long as work stops.
 
-_Company_ will pay _Blockchain Commons_ `late payment interest` interest on late bill payments, compounded monthly. If the law sets a lower maximum rate of late-payment interest, _Company_ will pay that rate instead.
+## Raise Billing Issues Promptly
 
-## Stopping Work
+_Company_ will notify _Blockchain Commons_ by e-mail of any suspected error in a bill before payment is due. If _Company_ does not notify of an error in that time, _Company_ will pay the billed amount.
 
-If _Company_ does not pay a bill on time, _Blockchain Commons_ may notify _Company_ by e-mail and stop work until all bills are paid. Stopping work in this way postpones all deadlines under this agreement for as long as work stops. Any recurring fees continue to add up.
-
-## Cost of Collection
+## Pay Costs of Collection
 
 If _Company_ does not pay a bill on time, _Company_ agrees to pay _Blockchain Commons_' costs of pursuing payment and collecting that bill, such as attorney fees and costs, that _Blockchain Commons_ incurs after the deadline for payment.
 
-# Publicity
+# Joint Obligations
 
-## Press Release
+## Issue a Press Release
 
 Both sides agree to prepare and issue a joint press release about the agreement established under this agreement.
 
-## Affiliation
+## Represent the Relationship Correctly
 
 While this agreement continues, each side may publicly identify _Company_ as a patron of _Blockchain Commons_ and _Blockchain Commons_ as a consultant and advisor for _Company_.
 
@@ -127,14 +137,6 @@ This agreement does not change ownership of any _Intellectual Property Rights_. 
 ### Other Projects
 
 ### Company Contributions
-
-# Guarantees
-
-_Blockchain Commons_ guarantees that:
-
-- _Blockchain Commons_ utilize only competent personnel with expertise in the relevant fields to do work under this agreement.
-- _Blockchain Commons_ will not breach any agreement with anyone else by entering into this agreement or doing work under it.
-- _Blockchain Commons_ will not knowingly infringe _Intellectual Property Rights_ in work under this agreement.
 
 # Disclaimer
 
