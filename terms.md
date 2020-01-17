@@ -92,7 +92,17 @@ Both sides agree to prepare and issue a joint press release about the agreement 
 
 ## Represent the Relationship Correctly
 
-While this agreement continues, each side may publicly identify _Company_ as a patron of _Blockchain Commons_ and _Blockchain Commons_ as a consultant and advisor for _Company_.
+While this agreement continues, both sides may publicly identify _Company_ as a patron of _Blockchain Commons_ and _Blockchain Commons_ as a consultant and advisor for _Company_.
+
+## License Contributions
+
+### Blockchain Commons Projects
+
+TODO
+
+### Other Projects
+
+TODO
 
 # Term
 
@@ -110,15 +120,7 @@ When this agreement ends, _Blockchain Commons_ will stop work and bill _Company_
 
 # Intellectual Property
 
-## Ownership
-
-This agreement does not change ownership of any _Intellectual Property Rights_. However, the parties agree to license _Intellectual Property Rights_ in certain situations.
-
-### Blockchain Commons Projects
-
-### Other Projects
-
-### Company Contributions
+This agreement does not change ownership of any _Intellectual Property Rights_. However, both sides agree to license _Intellectual Property Rights_ in certain situations under [License Contributions](#license-contributions).
 
 # Disclaimer
 
