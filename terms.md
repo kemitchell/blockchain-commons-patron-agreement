@@ -118,7 +118,7 @@ This agreement does not change ownership of any _Intellectual Property Rights_. 
 
 # Disclaimer
 
-!!! _Blockchain Commons_ makes only the guarantees in [Guarantees](#guarantees). Otherwise, _Blockchain Commons_ provides the _New Intellectual Property_ and all work product "as is", without any warranty whatsoever.
+!!! _Blockchain Commons_ makes only the guarantees in [Blockchain Commons' Obligations](#blockchain-commons-obligations). Otherwise, _Blockchain Commons_ provides work under this agreement "as is", without any warranty whatsoever.
 
 # Limit on Liability
 
