@@ -52,7 +52,7 @@ _Blockchain Commons_ agrees not to knowingly infringe any _Intellectual Property
 
 _Blockchain Commons_ agrees to send _Patron_'s _Primary Contact_ reports of work done on any outstanding _Statement of Work_ on request.  The _Primary Contact_ may request a report as frequently as every two weeks.
 
-## Maintain Consulting Confidentiality
+## Maintain Confidentiality
 
 If _Blockchain Commons_ agrees to provide services described as "consulting" under a _Statement of Work_ that include producing reports, documentation, or other written work product:
 
