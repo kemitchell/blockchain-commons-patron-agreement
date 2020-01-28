@@ -239,5 +239,5 @@ Each side agrees to pay the other side's attorney fees and costs if they lose in
     - _Derivatives_ of _New Intellectual Property_
 
     - _Embodiments_ of _New Intellectual Property_
-    -
+
 - **Personal Information** means all information subject to laws governing collection, storage, use, transfer, and processing of data about individuals, or implicating personal privacy, broadly understood, about individuals who interact with a party, its products, or its services. _Personal Information_ is _Personal Information_ no matter how it is stored and whether or not it is attributable to specific individuals by name or other identifier, aggregated, or anonymized.
