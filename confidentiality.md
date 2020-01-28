@@ -185,9 +185,9 @@ Obligations under [Confidentiality Obligations](#confidentiality-obligations) fo
 
 Neither party may assign any right or delegate any obligation under this agreement, voluntarily or by operation of law, without the prior, signed, written consent of the other party.  Any attempt to assign or delegate without consent will have no legal effect.
 
-## Governing Law
+## Dispute Resolution
 
-Wyoming law will govern all rights and duties under this agreement.
+The governing-law and dispute-resolution provisions of the _Patronage Framework Agreement_ will also apply to this confidentiality agreement.
 
 ## Legal Relationship
 
