@@ -32,7 +32,7 @@ signatures:
 
 - _Blockchain Commons_ can coordinate and accomplish this work only thanks to its patrons: companies in blockchain and allied industries that support _Blockchain Commons_' work financially and benefit from that work both tactically and strategically.
 
-- This agreement sets out terms for _Company_'s patronage of _Blockchain Commons_' work and mission.  That relationship can and will evolve over time, through a variety of specific engagements.  These terms afford the stable basis for that flexibility.
+- This agreement sets out terms for _Company_'s patronage of _Blockchain Commons_' work and mission.  That relationship can and will evolve over time, through a variety of specific engagements.  These terms afford the stable foundation for for that relationship.
 
 # Blockchain Commons' Obligations
 
