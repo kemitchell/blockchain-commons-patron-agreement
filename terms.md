@@ -42,7 +42,7 @@ _Blockchain Commons_ agrees do the work described in each **Statement of Work** 
 
 ## Use Competent Personnel
 
-- _Blockchain Commons_ agrees to use only competent personnel with expertise in the relevant fields to do work under this agreement.
+_Blockchain Commons_ agrees to use only competent personnel with expertise in the relevant fields to do work under this agreement.
 
 ## Avoid Infringement
 
