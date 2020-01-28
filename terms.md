@@ -52,9 +52,13 @@ _Blockchain Commons_ agrees not to knowingly infringe any _Intellectual Property
 
 _Blockchain Commons_ agrees to send _Company_'s _Primary Contact_ reports of work done on any outstanding _Statement of Work_ on request.  The _Primary Contact_ may request a report as frequently as every two weeks.
 
-## Redact Private Advice
+## Maintain Consulting Confidentiality
 
-_Blockchain Commons_ agrees to redact advice specific to _Company_ from published reports, documentation, and other work product, and to secure redacted information as _Company_ confidential information.
+If _Blockchain Commons_ agrees to provide consulting services under a _Statement of Work_ that include producing reports, documentation, or other written work product:
+
+1.  _Blockchain Commons_ agrees, on request, to enter into a confidentiality agreement on the terms of _Blockchain Commons_' published form patron confidentiality agreement.
+
+2.  _Blockchain Commons_ agrees to redact _Company_ confidential information included or disclosed in the work product from any versions published or otherwise distributed beyond _Blockchain Commons_ and _Company_.
 
 # Company's Obligations
 
