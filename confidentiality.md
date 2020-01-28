@@ -15,6 +15,8 @@ signatures:
     information: [date]
 ---
 
+**Blockchain Commons** and **Patron** agree:
+
 # Purpose
 
 The parties anticipate disclosure of _Confidential Information_ by _Patron_ for the purpose of enabling _Blockchain Commons_ to render **Consulting Services** to _Patron_ under the parties' **Patronage Framework Agreement**.
