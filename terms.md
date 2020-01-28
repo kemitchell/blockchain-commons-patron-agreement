@@ -54,7 +54,7 @@ _Blockchain Commons_ agrees to send _Company_'s _Primary Contact_ reports of wor
 
 ## Maintain Consulting Confidentiality
 
-If _Blockchain Commons_ agrees to provide consulting services under a _Statement of Work_ that include producing reports, documentation, or other written work product:
+If _Blockchain Commons_ agrees to provide services described as "consulting" under a _Statement of Work_ that include producing reports, documentation, or other written work product:
 
 1.  _Blockchain Commons_ agrees, on request, to enter into a confidentiality agreement on the terms of _Blockchain Commons_' published form patron confidentiality agreement.
 
