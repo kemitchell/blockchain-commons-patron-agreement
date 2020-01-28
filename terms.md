@@ -50,7 +50,7 @@ _Blockchain Commons_ agrees not to knowingly infringe any _Intellectual Property
 
 ## Send Progress Reports
 
-_Blockchain Commons_ agrees to send _Company_'s _Primary Contact_ reports of work done on any outstanding _Statement of Work_ on request.  The _Primary Contact_ may request a report every two weeks.
+_Blockchain Commons_ agrees to send _Company_'s _Primary Contact_ reports of work done on any outstanding _Statement of Work_ on request.  The _Primary Contact_ may request a report as frequently as every two weeks.
 
 ## Redact Private Advice
 
