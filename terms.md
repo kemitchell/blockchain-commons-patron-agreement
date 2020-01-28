@@ -44,7 +44,7 @@ _Blockchain Commons_ agrees do the work described in each **Statement of Work** 
 
 _Blockchain Commons_ agrees to use only competent personnel with expertise in the relevant fields to do work under this agreement.
 
-## Avoid Infringement
+## Avoid Intellectual Property Problems
 
 _Blockchain Commons_ agrees not to knowingly infringe any _Intellectual Property Rights_ in work under this agreement.
 
