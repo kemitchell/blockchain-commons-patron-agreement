@@ -54,11 +54,11 @@ _Blockchain Commons_ agrees to send _Patron_'s _Primary Contact_ reports of work
 
 ## Maintain Confidentiality
 
-If _Blockchain Commons_ agrees to provide services described as "consulting" under a _Statement of Work_ that include producing reports, documentation, or other written work product:
+If _Blockchain Commons_ agrees to provide services described as "consulting" under a _Statement of Work_:
 
 1.  _Blockchain Commons_ agrees, on request, to enter into a confidentiality agreement on the terms of _Blockchain Commons_' published form patron confidentiality agreement.
 
-2.  _Blockchain Commons_ agrees to redact _Patron_ confidential information included or disclosed in the work product from any versions published or otherwise distributed beyond _Blockchain Commons_ and _Patron_.
+2.  _Blockchain Commons_ agrees to redact _Patron_ confidential information from reports, documentation, and other written work product published or otherwise distributed beyond _Blockchain Commons_ and _Patron_.
 
 # Patron's Obligations
 
