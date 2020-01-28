@@ -15,12 +15,12 @@ signatures:
         form: LLC
     information: [date, email]
   - samePage: true
-    term: Company
+    term: Patron
     entities: [{}]
     information: [date, email]
 ---
 
-**Blockchain Commons** and **Company** agree:
+**Blockchain Commons** and **Patron** agree:
 
 # Background
 
@@ -32,13 +32,13 @@ signatures:
 
 - _Blockchain Commons_ can coordinate and accomplish this work only thanks to its patrons: companies in blockchain and allied industries that support _Blockchain Commons_' work financially and benefit from that work both tactically and strategically.
 
-- This agreement sets out terms for _Company_'s patronage of _Blockchain Commons_' work and mission.  That relationship can and will evolve over time, through a variety of specific engagements.  These terms afford the stable foundation for for that relationship.
+- This agreement sets out terms for _Patron_'s patronage of _Blockchain Commons_' work and mission.  That relationship can and will evolve over time, through a variety of specific engagements.  These terms afford the stable foundation for for that relationship.
 
 # Blockchain Commons' Obligations
 
 ## Do the Work
 
-_Blockchain Commons_ agrees do the work described in each **Statement of Work** cosigned with _Company_ under this agreement.
+_Blockchain Commons_ agrees do the work described in each **Statement of Work** cosigned with _Patron_ under this agreement.
 
 ## Use Competent Personnel
 
@@ -50,7 +50,7 @@ _Blockchain Commons_ agrees not to knowingly infringe any _Intellectual Property
 
 ## Send Progress Reports
 
-_Blockchain Commons_ agrees to send _Company_'s _Primary Contact_ reports of work done on any outstanding _Statement of Work_ on request.  The _Primary Contact_ may request a report as frequently as every two weeks.
+_Blockchain Commons_ agrees to send _Patron_'s _Primary Contact_ reports of work done on any outstanding _Statement of Work_ on request.  The _Primary Contact_ may request a report as frequently as every two weeks.
 
 ## Maintain Consulting Confidentiality
 
@@ -58,37 +58,37 @@ If _Blockchain Commons_ agrees to provide services described as "consulting" und
 
 1.  _Blockchain Commons_ agrees, on request, to enter into a confidentiality agreement on the terms of _Blockchain Commons_' published form patron confidentiality agreement.
 
-2.  _Blockchain Commons_ agrees to redact _Company_ confidential information included or disclosed in the work product from any versions published or otherwise distributed beyond _Blockchain Commons_ and _Company_.
+2.  _Blockchain Commons_ agrees to redact _Patron_ confidential information included or disclosed in the work product from any versions published or otherwise distributed beyond _Blockchain Commons_ and _Patron_.
 
-# Company's Obligations
+# Patron's Obligations
 
 ## Appoint a Primary Contact
 
-_Company_ agrees to appoint a **Primary Contact** for work with _Blockchain Commons_ by sending their name, title, and e-mail address to _Blockchain Commons_ before work starts. _Company_ agrees to appoint a replacement _Primary Contact_ if the current one leaves or becomes unavailable. If _Company_ or any _Affiliate_ has technical staff, the _Primary Contact_ must be a member of the technical staff.
+_Patron_ agrees to appoint a **Primary Contact** for work with _Blockchain Commons_ by sending their name, title, and e-mail address to _Blockchain Commons_ before work starts. _Patron_ agrees to appoint a replacement _Primary Contact_ if the current one leaves or becomes unavailable. If _Patron_ or any _Affiliate_ has technical staff, the _Primary Contact_ must be a member of the technical staff.
 
 ## Respond to Requests Promptly
 
-_Company_ agrees to ensure that its _Primary Contact_ responds promptly to written requests for information, scheduling, and rescheduling. The deadline for any work held up waiting on a _Primary Contact_ response are automatically postponed by the length of the delay. If the _Primary Contact_ fails to respond to a request for more than a month, _Blockchain Commons_ can end the relevant _Statement of Work_ by notifying _Company_ by e-mail.
+_Patron_ agrees to ensure that its _Primary Contact_ responds promptly to written requests for information, scheduling, and rescheduling. The deadline for any work held up waiting on a _Primary Contact_ response are automatically postponed by the length of the delay. If the _Primary Contact_ fails to respond to a request for more than a month, _Blockchain Commons_ can end the relevant _Statement of Work_ by notifying _Patron_ by e-mail.
 
 ## Pay Agreed Fees and Expenses
 
-_Company__ agrees to pay _Blockchain Commons_' fees and expenses as agreed on each _Statement of Work_.
+_Patron__ agrees to pay _Blockchain Commons_' fees and expenses as agreed on each _Statement of Work_.
 
 ## Follow Payment Instructions
 
-_Company_ agrees to make all payments to _Blockchain Commons_ under this agreement denominated in the currency and according to the payment instructions agreed on the _Statement of Work_.  _Company_ will not increase or decrease payments under this agreement according to, or to offset, changes in the market price of the denominating currency.
+_Patron_ agrees to make all payments to _Blockchain Commons_ under this agreement denominated in the currency and according to the payment instructions agreed on the _Statement of Work_.  _Patron_ will not increase or decrease payments under this agreement according to, or to offset, changes in the market price of the denominating currency.
 
 ## Pay on Time
 
-_Company_ agrees to pay all correctly billed amounts on each bill within seven calendar days of receipt.  If _Company_ does not pay a bill on time, _Blockchain Commons_ can notify _Company_ by e-mail and stop work until all overdue bills are paid.  Stopping work in this way postpones all deadlines for as long as work stops.
+_Patron_ agrees to pay all correctly billed amounts on each bill within seven calendar days of receipt.  If _Patron_ does not pay a bill on time, _Blockchain Commons_ can notify _Patron_ by e-mail and stop work until all overdue bills are paid.  Stopping work in this way postpones all deadlines for as long as work stops.
 
 ## Raise Billing Issues Promptly
 
-_Company_ will notify _Blockchain Commons_ by e-mail of any suspected error in a bill before payment is due. If _Company_ does not notify of an error in that time, _Company_ will pay the billed amount.
+_Patron_ will notify _Blockchain Commons_ by e-mail of any suspected error in a bill before payment is due. If _Patron_ does not notify of an error in that time, _Patron_ will pay the billed amount.
 
 ## Pay Costs of Collection
 
-If _Company_ does not pay a bill on time, _Company_ agrees to pay _Blockchain Commons_' costs of pursuing payment and collecting that bill, such as attorney fees and costs, that _Blockchain Commons_ incurs after the deadline for payment.
+If _Patron_ does not pay a bill on time, _Patron_ agrees to pay _Blockchain Commons_' costs of pursuing payment and collecting that bill, such as attorney fees and costs, that _Blockchain Commons_ incurs after the deadline for payment.
 
 # Joint Obligations
 
@@ -98,7 +98,7 @@ Both sides agree to prepare and issue a joint press release about the agreement 
 
 ## Represent the Relationship Correctly
 
-While this agreement continues, both sides may publicly identify _Company_ as a patron of _Blockchain Commons_ and _Blockchain Commons_ as a consultant and advisor for _Company_.
+While this agreement continues, both sides may publicly identify _Patron_ as a patron of _Blockchain Commons_ and _Blockchain Commons_ as a consultant and advisor for _Patron_.
 
 ## License Contributions
 
@@ -118,11 +118,11 @@ This agreement will end once `term timeout` have passed since there was any ongo
 
 ## Early Termination
 
-Both _Company_ and _Blockchain Commons_ can end this agreement early by notifying the other by e-mail `early termination period` in advance.
+Both _Patron_ and _Blockchain Commons_ can end this agreement early by notifying the other by e-mail `early termination period` in advance.
 
 ## Final Bill
 
-When this agreement ends, _Blockchain Commons_ will stop work and bill _Company_ for work already done.
+When this agreement ends, _Blockchain Commons_ will stop work and bill _Patron_ for work already done.
 
 # Intellectual Property
 
@@ -134,29 +134,29 @@ This agreement does not change ownership of any _Intellectual Property Rights_. 
 
 # Limit on Liability
 
-!!! As far as the law allows, if _Company_ makes any _Legal Claim_ against _Blockchain Commons_ related to this agreement, _Blockchain Commons_'s aggregate liability to _Company_ will be capped at the amount of fees _Company_ has actually paid _Blockchain Commons_ under this agreement. This limit on liability does not apply to indemnity under [Compliance Indemnity](#compliance-indemnity).
+!!! As far as the law allows, if _Patron_ makes any _Legal Claim_ against _Blockchain Commons_ related to this agreement, _Blockchain Commons_'s aggregate liability to _Patron_ will be capped at the amount of fees _Patron_ has actually paid _Blockchain Commons_ under this agreement. This limit on liability does not apply to indemnity under [Compliance Indemnity](#compliance-indemnity).
 
 # Working Relationship
 
 ## Independence
 
-_Blockchain Commons_ will decide when, where, and how to work under this agreement, with the discretion of an independent contractor. _Blockchain Commons_ will not have any power to enter agreements or take other legal action on _Company_'s behalf.
+_Blockchain Commons_ will decide when, where, and how to work under this agreement, with the discretion of an independent contractor. _Blockchain Commons_ will not have any power to enter agreements or take other legal action on _Patron_'s behalf.
 
 ## Personnel
 
-Unless a _Statement of Work_ says otherwise, _Blockchain Commons_ may use employee and contractor personnel to do any work under this agreement. Those personnel will be employees and contractors of _Blockchain Commons_, not _Company_.
+Unless a _Statement of Work_ says otherwise, _Blockchain Commons_ may use employee and contractor personnel to do any work under this agreement. Those personnel will be employees and contractors of _Blockchain Commons_, not _Patron_.
 
 ## No Benefits
 
-Neither _Blockchain Commons_ nor any _Blockchain Commons_ personnel will receive any employee benefits from _Company_.
+Neither _Blockchain Commons_ nor any _Blockchain Commons_ personnel will receive any employee benefits from _Patron_.
 
 ## Compliance
 
-Both _Company_ and _Blockchain Commons_ will do their respective parts for tax, labor, employment, and immigration law compliance, consistent with their independent-contractor relationship under this agreement.
+Both _Patron_ and _Blockchain Commons_ will do their respective parts for tax, labor, employment, and immigration law compliance, consistent with their independent-contractor relationship under this agreement.
 
 ## Compliance Indemnity
 
-_Blockchain Commons_ will pay any losses that _Company_ pays or becomes legally responsible to pay, including expenses of defending against any _Legal Claim_, related to _Blockchain Commons_'s failure under [Compliance](#compliance) for _Blockchain Commons_ or any _Blockchain Commons_ personnel. _Company_ will promptly notify _Blockchain Commons_ by e-mail whenever it anticipates possible losses that _Blockchain Commons_ might have to pay. If _Company_ fails to notify _Blockchain Commons_ promptly, _Blockchain Commons_ will not pay _Company_ losses that _Blockchain Commons_ could have reduced or defended against if _Company_ had notified _Blockchain Commons_ promptly.
+_Blockchain Commons_ will pay any losses that _Patron_ pays or becomes legally responsible to pay, including expenses of defending against any _Legal Claim_, related to _Blockchain Commons_'s failure under [Compliance](#compliance) for _Blockchain Commons_ or any _Blockchain Commons_ personnel. _Patron_ will promptly notify _Blockchain Commons_ by e-mail whenever it anticipates possible losses that _Blockchain Commons_ might have to pay. If _Patron_ fails to notify _Blockchain Commons_ promptly, _Blockchain Commons_ will not pay _Patron_ losses that _Blockchain Commons_ could have reduced or defended against if _Patron_ had notified _Blockchain Commons_ promptly.
 
 # General Contract Terms
 
@@ -166,15 +166,15 @@ Wyoming law will govern all rights and duties under this agreement.
 
 ## Disputes
 
-_Company_ and _Blockchain Commons_ agree to make any _Legal Claim_ related to this agreement only in the federal or state courts nearest the address _Company_ provides with its signature, and to pay the other's attorney fees and costs if they lose in court.
+_Patron_ and _Blockchain Commons_ agree to make any _Legal Claim_ related to this agreement only in the federal or state courts nearest the address _Patron_ provides with its signature, and to pay the other's attorney fees and costs if they lose in court.
 
 ## Whole Agreement
 
-Both sides intend this agreement as the final, complete, and only expression of their terms about _Blockchain Commons_' work with _Company_.  However, these terms do not replace or invalidate any nondisclosure agreement.
+Both sides intend this agreement as the final, complete, and only expression of their terms about _Blockchain Commons_' work with _Patron_.  However, these terms do not replace or invalidate any nondisclosure agreement.
 
 ## Assignment
 
-_Company_ cannot assign any right under this agreement without _Blockchain Commons_' prior, written, permission. _Blockchain Commons_ can assign this agreement, as a whole, to another business entity that acquires its stock or substantially all its assets, or to a new business entity set up to change its legal form or jurisdiction. Any attempt to assign rights under this agreement against its terms has no legal effect.
+_Patron_ cannot assign any right under this agreement without _Blockchain Commons_' prior, written, permission. _Blockchain Commons_ can assign this agreement, as a whole, to another business entity that acquires its stock or substantially all its assets, or to a new business entity set up to change its legal form or jurisdiction. Any attempt to assign rights under this agreement against its terms has no legal effect.
 
 ## Delegation
 
@@ -186,7 +186,7 @@ If a court decides that any part of this agreement cannot be enforced, for any r
 
 ## Enforcement
 
-Only _Company_ and _Blockchain Commons_ can enforce this agreement.
+Only _Patron_ and _Blockchain Commons_ can enforce this agreement.
 
 ## Lawsuits
 
@@ -234,7 +234,7 @@ Each side agrees to pay the other side's attorney fees and costs if they lose in
 
     - all _Intellectual Property Rights_ that _Blockchain Commons_ creates as a result of _Blockchain Commons_'s work under any _Statement of Work_
 
-    - all _Intellectual Property Rights_ created by _Blockchain Commons_ using _Company_ equipment, supplies, facilities, or trade secrets
+    - all _Intellectual Property Rights_ created by _Blockchain Commons_ using _Patron_ equipment, supplies, facilities, or trade secrets
 
     - _Derivatives_ of _New Intellectual Property_
 
