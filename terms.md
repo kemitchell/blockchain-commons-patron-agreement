@@ -72,7 +72,7 @@ _Patron_ agrees to ensure that its _Primary Contact_ responds promptly to writte
 
 ## Pay Agreed Fees and Expenses
 
-_Patron__ agrees to pay _Blockchain Commons_' fees and expenses as agreed on each _Statement of Work_.
+_Patron_ agrees to pay _Blockchain Commons_' fees and expenses as agreed on each _Statement of Work_.
 
 ## Follow Payment Instructions
 
