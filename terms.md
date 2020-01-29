@@ -210,10 +210,6 @@ Each side agrees to pay the other side's attorney fees and costs if they lose in
 
 - **Control** means ownership of substantially all the assets of a legal entity or the power to direct management and policies of a legal entity, such as by vote or by contract. _Control_ can be direct or indirect.
 
-- **Derivatives** means _Intellectual Property Rights_ incorporating, improving, or derived from other _Intellectual Property Rights_.
-
-- **Embodiments** means documents, computer files, and other records that describe, embody, record, or store the subject matter of _New Intellectual Property_.
-
 - **Intellectual Property Rights** means all of these:
 
     - copyrights, mask work rights, and moral rights
@@ -231,17 +227,3 @@ Each side agrees to pay the other side's attorney fees and costs if they lose in
     - rights in registrations and applications for _Intellectual Property Rights_
 
 - **Legal Claim** means any legal action or claim, ignoring the historical distinction between actions "in law" and "in equity".
-
-- **New Intellectual Property** means all of these, created by _Blockchain Commons_ alone or with others:
-
-    - all _Intellectual Property Rights_ that _Blockchain Commons_ created before entering into this agreement, as a head start on work under an _Statement of Work_
-
-    - all _Intellectual Property Rights_ that _Blockchain Commons_ creates as a result of _Blockchain Commons_'s work under any _Statement of Work_
-
-    - all _Intellectual Property Rights_ created by _Blockchain Commons_ using _Patron_ equipment, supplies, facilities, or trade secrets
-
-    - _Derivatives_ of _New Intellectual Property_
-
-    - _Embodiments_ of _New Intellectual Property_
-
-- **Personal Information** means all information subject to laws governing collection, storage, use, transfer, and processing of data about individuals, or implicating personal privacy, broadly understood, about individuals who interact with a party, its products, or its services. _Personal Information_ is _Personal Information_ no matter how it is stored and whether or not it is attributable to specific individuals by name or other identifier, aggregated, or anonymized.
