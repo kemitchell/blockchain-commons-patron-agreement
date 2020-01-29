@@ -7,7 +7,7 @@ blanks:
   payment deadline: thirty days
   term timeout: six months
 signatures:
-  - header: The parties are signing this agreement on the dates by their signatures.
+  - header: Both sides are signing this agreement on the dates by their signatures.
     term: Blockchain Commons
     entities:
       - name: Blockchain Commons LLC
@@ -102,13 +102,13 @@ While this agreement continues, both sides may publicly identify _Patron_ as a p
 
 ## License Contributions
 
-### Blockchain Commons Projects
+### New Projects
 
-TODO
+If _Patron_ and _Blockchain Commons_ agree on a _Statement of Work_ to license a new project established under this agreement under specific public license terms, they will do so.  Otherwise, _Blockchain Commons_ will choose the public license terms for each new project established under this agreement.  In either case, _Blockchain Commons_ may require contributions to any new project under the terms of this agreement under _Blockchain Commons_' published for contributor license agreement.
 
 ### Other Projects
 
-Both sides agree to license contributions of their personnel to open projects established outside of this agreement, whether by the parties themselves or others, on the prevailing license terms for contributions to those projects.  When the steward of the project requests a contributor license agreement for contributions, we will contribute under that agreement.  Otherwise, we will contribute under the terms of the primary public.
+Both sides agree to license contributions of their personnel to publicly licensed projects, whether stewarded by _Blockchain Commons_, _Patron_, or anyone else, under the prevailing contributor license agreement terms for contributions to those projects.  When the steward of the project requests a contributor license agreement for contributions, both sides agree to contribute under that agreement.  Otherwise, both sides agree to contribute under the terms of the primary public license for the project.
 
 # Term
 
