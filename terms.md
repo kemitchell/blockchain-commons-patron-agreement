@@ -160,6 +160,10 @@ _Blockchain Commons_ will pay any losses that _Patron_ pays or becomes legally r
 
 # General Contract Terms
 
+## Notice
+
+Both sides agree to give all notices and other messages anticipated by this agreement by e-mail to the address provided with the other side's signature, or to another address they specify by notice after signing.
+
 ## Governing Law
 
 Wyoming law will govern all rights and duties under this agreement.
