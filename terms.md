@@ -38,7 +38,7 @@ signatures:
 
 ## Do the Work
 
-_Blockchain Commons_ agrees do the work described in each **Statement of Work** cosigned with _Patron_ under this agreement.
+_Blockchain Commons_ agrees to do the work described in each **Statement of Work** cosigned with _Patron_ under this agreement.
 
 ## Use Competent Personnel
 
